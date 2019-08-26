@@ -1,0 +1,4 @@
+- Lien doc dash tutorial
+- Dash deux parties essentielles : html et les callbacks
+- Liens vers les dash core components (dcc) et les dash html
+- Parler de plotly express
