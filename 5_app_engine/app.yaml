@@ -1,0 +1,4 @@
+runtime: python37
+instance_class: F2
+service: training
+entrypoint: gunicorn -b :$PORT -w 2 main:app.server
