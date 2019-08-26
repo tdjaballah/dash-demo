@@ -10,9 +10,10 @@
 # About Dash :
 - Dash consists in two parts : html layout and callbacks.
 - Html layout contains all the inputs and outputs we want to display.
-- Inputs could be checkboxes, uploading files area... 
-- Outputs could be tables, but in most cases we will use interactive
-  plotly figures.
+- Inputs could be checkboxes, drop down lists, input text area, file 
+  upload area...
+- Outputs could be tables, graph images or even html layout parts, but
+  in most cases we will use interactive plotly figures.
 - Callbacks are kind of flask routes to feed our outputs cells in the
   layout with the desired results.
  
